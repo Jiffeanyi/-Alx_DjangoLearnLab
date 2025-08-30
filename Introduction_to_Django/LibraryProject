@@ -1,0 +1,14 @@
+# LibraryProject
+
+This is a basic Django project created to learn the fundamentals of Django.
+
+## Steps completed:
+- Installed Django
+- Created the project using `django-admin startproject LibraryProject`
+- Started the development server using `python manage.py runserver`
+- Accessed the default Django welcome page at `http://127.0.0.1:8000/`
+
+## Project Structure
+- **manage.py**: Command-line tool to manage the project
+- **LibraryProject/settings.py**: Main configuration file
+- **LibraryProject/urls.py**: URL routing
